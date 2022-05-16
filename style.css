@@ -1,0 +1,18 @@
+#menuTop{
+    background-color: rgb(255, 93, 120);
+    height: 100px;
+    margin: 0 auto;
+    width: 100%;
+}
+#menuLeft{
+    float: left;
+    background-color: rgb(255, 156, 172);
+    width: 10%;
+    height: 900px;
+}
+#main{
+    float: left;
+    background-color: rgb(146, 146, 146);
+    width: 90%;
+    height: 900px;
+}
