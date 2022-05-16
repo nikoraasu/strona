@@ -9,10 +9,11 @@
     background-color: rgb(255, 156, 172);
     width: 10%;
     height: 900px;
+    padding: 20px;
 }
 #main{
     float: left;
     background-color: rgb(146, 146, 146);
-    width: 90%;
-    height: 900px;
+    width: 87.88%;
+    height: 950px;
 }
