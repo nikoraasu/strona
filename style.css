@@ -16,4 +16,21 @@
     background-color: rgb(146, 146, 146);
     width: 87.88%;
     height: 950px;
+    text-align: center;
+}
+.Strona{
+    margin-top: 40px;
+    width: 12%;
+    float: left;
+    margin-left: 350px;
+}
+a{
+    color: white;
+    font-size: x-large;
+    text-decoration: none;
+}
+#image{
+    margin: 0 auto;
+    width: 50%;
+    
 }
